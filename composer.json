@@ -1,0 +1,16 @@
+{
+    "name": "alanchen365/basic-sdk-es2",
+    "description": "basic sdk es2n",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.1",
+        "easyswoole/easyswoole": "v2.1.3-stable"
+    },
+    "autoload": {
+        "psr-4": {
+            "Basic\\": "src/"
+        }
+    }
+}

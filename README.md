@@ -1,1 +1,1 @@
-# php-basic-es2
+# basic-sdk-es2
