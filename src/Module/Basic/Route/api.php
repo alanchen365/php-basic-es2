@@ -25,5 +25,9 @@ return [
         // 产品
         $route->addRoute(['POST'], '/product', '/Basic/Product/insert');
         $route->addRoute(['PUT'], '/product', '/Basic/Product/updateById');
+
+        // 供应商
+        $route->addRoute(['POST'], '/supplier', '/Basic/Supplier/insert');
+        $route->addRoute(['PUT'], '/supplier', '/Basic/Supplier/updateById');
     },
 ];

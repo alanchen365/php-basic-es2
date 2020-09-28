@@ -25,4 +25,6 @@ class BasicConst
     const TABLE_PRODUCT_UNIT = 'asal_product_unit';
 
     const TABLE_PRODUCT_UNIT_NAME = 'asal_product_unit_name';
+
+    const TABLE_SUPPLIER = 'asal_supplier';
 }
